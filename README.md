@@ -1,3 +1,4 @@
+<img src="css.gif" alt="MasterHead" width="1020" height="520">
 <h1 align="center">Hi 👋, I'm THAHIRUNNISHA M</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
